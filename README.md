@@ -1,4 +1,6 @@
-# Abdullah Elhossany - Professional CV
+# Abdullah Elhossany - Professional CV 
+
+![Your Photo Here](link-to-your-photo)
 
 ## Personal Information
 - **Date of Birth**: 18/12/2002
@@ -20,4 +22,8 @@
 
 ## Education
 - **Modern University for Technology and Information (MTI)** - Intern Nursing Student (2023-Present)
+
+## Languages
+- **Arabic**: Native
+- **English**: B1
 
